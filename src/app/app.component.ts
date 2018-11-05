@@ -12,7 +12,7 @@ const TEMPLATE = `
 `
 
 @Component({
-    selector: 'app-root',
+    selector: 'logo-spinner-1',
     templateUrl: './app.component.html',
     styleUrls: ['./app.component.scss']
 })
