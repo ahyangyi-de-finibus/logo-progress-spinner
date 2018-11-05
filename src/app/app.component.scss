@@ -1,0 +1,8 @@
+@keyframes rotate {
+    0%      { stroke-dashoffset: 0;}
+    100%   { stroke-dashoffset: 160.5874481201172;}
+}
+
+path {
+     animation: rotate 2s linear 0s infinite;
+}
